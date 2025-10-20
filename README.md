@@ -1,3 +1,5 @@
+Tutorial created by [Naked_Snake1995](https://www.psx-place.com/threads/tutorial-playstation3-coldboot-gameboot-collection-0-90-1-00-3-00.23082/)
+
 # Package Includes
 
 - **Firmware 0.90 (Pre-Release)**: Coldboot/Gameboot and Sounds  
@@ -29,4 +31,4 @@
 3. Restart your PlayStation 3 after applying these changes.
 ### Original Creator
 
-Tutorial created by [Naked_Snake1995](https://www.psx-place.com/threads/tutorial-playstation3-coldboot-gameboot-collection-0-90-1-00-3-00.23082/)
+
