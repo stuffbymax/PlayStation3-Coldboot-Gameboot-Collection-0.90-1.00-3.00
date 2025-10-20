@@ -1,5 +1,8 @@
 Tutorial created by [Naked_Snake1995](https://www.psx-place.com/threads/tutorial-playstation3-coldboot-gameboot-collection-0-90-1-00-3-00.23082/)
 
+
+# i am just hosting it on github
+
 # Package Includes
 
 - **Firmware 0.90 (Pre-Release)**: Coldboot/Gameboot and Sounds  
@@ -29,6 +32,6 @@ Tutorial created by [Naked_Snake1995](https://www.psx-place.com/threads/tutorial
 1. Choose your desired firmware Coldboot and Gameboot included in the package.  
 2. Move it to: `dev_blind/vsh` via **Multiman File Explorer** or **FTP**.  
 3. Restart your PlayStation 3 after applying these changes.
-### Original Creator
+
 
 
