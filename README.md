@@ -1,7 +1,7 @@
 Tutorial created by [Naked_Snake1995](https://www.psx-place.com/threads/tutorial-playstation3-coldboot-gameboot-collection-0-90-1-00-3-00.23082/)
 
 
-# i am just hosting it on github
+# i am just archive it on github
 
 # Package Includes
 
